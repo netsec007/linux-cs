@@ -4,6 +4,24 @@
       background-color: #1a1a1a;
       color: #f0f0f0;
     }
+
+    table {
+      background-color: #1a1a1a;
+    }
+
+    th {
+      background-color: #2d2d2d;
+      color: #f0f0f0;
+    }
+
+    td {
+      background-color: #1a1a1a;
+      color: #f0f0f0;
+    }
+
+    tr:nth-child(even) td {
+      background-color: #252525;
+    }
   }
 </style>
 
