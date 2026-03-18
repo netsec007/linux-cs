@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # linux-cs
 
 # Linux-Commands-Cheat-Sheet
