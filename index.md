@@ -1,3 +1,11 @@
+<style>
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #1a1a1a;
+      color: #f0f0f0;
+    }
+  }
+</style>
 
 # linux-cs
 
