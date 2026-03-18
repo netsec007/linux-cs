@@ -33,9 +33,7 @@
   }
 </style>
 
-## linux-cs
-
-# Linux-Commands-Cheat-Sheet
+# Linux-cs / Linux-Commands-Cheat-Sheet
 
 A collection of common Linux commands for system navigation, file management, networking, and more.
 
