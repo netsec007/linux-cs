@@ -5,6 +5,14 @@
       color: #f0f0f0;
     }
 
+    a {
+      color: #00cc66;
+    }
+
+    a:hover {
+      color: #00ff80;
+    }
+
     table {
       background-color: #1a1a1a;
     }
@@ -24,7 +32,6 @@
     }
   }
 </style>
-
 # linux-cs
 
 # Linux-Commands-Cheat-Sheet
