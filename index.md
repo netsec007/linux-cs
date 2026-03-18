@@ -32,7 +32,8 @@
     }
   }
 </style>
-##$ linux-cs
+
+## linux-cs
 
 # Linux-Commands-Cheat-Sheet
 
